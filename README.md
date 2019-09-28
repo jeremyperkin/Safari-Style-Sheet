@@ -8,5 +8,7 @@ Feel free to make changes and share it out.  Since Apple in it's infinite wisdom
 
 Added Reddit - cosmetic filtering applied.  Made it a little less cluttered.  Here is the landing page and the edited Menu. This is still a WIP.
 
+PLEASE NOTE - I HAVE REDDIT PREMIUM - Ads are blocked by default for Prem users.  
+
 ![](reddit.png)
 ![](menu.png)
