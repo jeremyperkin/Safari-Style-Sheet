@@ -6,6 +6,7 @@ Feel free to make changes and share it out.  Since Apple in it's infinite wisdom
 
 ![](Screen%20Shot%202019-09-27%20at%2010.15.59%20PM.png)
 
-Added Reddit - cosmetic filtering applied.  Made it a little less cluttered.  WIP.
+Added Reddit - cosmetic filtering applied.  Made it a little less cluttered.  Here is the landing page and the edited Menu. This is still a WIP.
 
 ![](reddit.png)
+![](menu.png)
