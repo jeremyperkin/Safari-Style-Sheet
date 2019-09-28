@@ -1,0 +1,46 @@
+/* YouTube */
+
+watch-comment-panel,
+cm,
+watch-comments-core,
+watch-discussion,
+comments-test-iframe,
+ytm-comment-section-renderer,
+#secondary,
+#banner-spacer,
+#banner,
+#merch-shelf > .ytd-watch-flexy,
+style-scope ytd-video-masthead-ad-primary-video-renderer,
+style-scope ytd-banner-promo-renderer,
+style-scope ytd-browse,
+ytd-banner-promo-renderer-background style-scope ytd-banner-promo-renderer,
+#masthead-ad,
+
+
+/* ...misc and generic... */
+.comments:not(code),
+.Comments:not(code),
+#comments:not(code),
+#Comments:not(code),
+#comments_container,comments-list,
+#blogComments,
+#comments_pane,
+#commentcontainer,
+#commentsDiv,
+#comment_entries,
+#comment_form,
+#commentlist,
+comments_area,
+comments-area,
+discussionContainer,
+commentBoxStyle,
+pagecomment,
+pagecommentheader,
+com_text,
+commenttxt,
+post-comments,
+post-comment-list,
+#cmtWrapper
+{
+	display: none !important;
+}
