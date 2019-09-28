@@ -8,4 +8,4 @@ Feel free to make changes and share it out.  Since Apple in it's infinite wisdom
 
 Added Reddit - cosmetic filtering applied.  Made it a little less cluttered.  WIP.
 
-![](Reddit.png)
+![](reddit.png)
