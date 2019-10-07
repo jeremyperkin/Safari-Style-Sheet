@@ -17,8 +17,7 @@
     display: none !important;
   }
 
-/* Reddit */
-
+/* Reddit */ 
 ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2j6XpwwZyn7dNcfH7Blz0B > .TmgZY6tDcdErbE5d7E0HJ,
 ._ZhON3a3vplThB8NFwuJn,
 ._2-aCCpAklEV0DkVWrpodjE,
@@ -45,8 +44,47 @@ ol > :nth-child(1),
 ._2uYY-KeuYHKiwl-9aF0UiL > :nth-child(10) {
   display: none !important;
 }
-	
 /******Google settings********/
+
+body {
+  background-color: #111111 !important;
+}
+/*HIDES THE BAR AT THE BOTTOM Of THE SCREEN ie Country info etc */
+#fbar { display: none !important;}
+div.klbar {background-color: #111111 !important;}
+div.abup { background-color: #111111 !important;}
+div.topabar {background-color: #111111 !important;}
+span.kxbcc {color: #728cbb !important;}
+div.lxhdr {background-color: #111111 !important;}
+div.appbar { background-color: #111111 !important;}
+div.extabar { background-color: #111111 !important;}
+
+a:visited {
+    color: #bba172 !important;     
+}
+#topabar, #slim_appbar, #appbar, #klbar {
+  background-color: #111111 !important;
+  color: #111111 !important;
+}
+
+#before-appbar, #extrabar, #sbrfm {
+  display: none !important;
+}
+/*fill color for google apps icon*/
+.gb_Xe,
+.gb_eb,
+.gb_db,
+.gb_Lf
+{
+  fill: #1fef1f !important;
+}
+.kno-fb-ctx,
+.PZPZlf,
+.MRfBrb,
+.kno-vrt-t:hover {
+  color: #728cbb !important;
+}
+
 .g-blk,
 .knowledge-panel,
 .vk_arc,
@@ -77,7 +115,9 @@ ul[role=listbox] li[role=presentation]:hover {
 #gsr, g-inner-card, .mod .dw-sb-cont {
 	background: #111111 !important;
 } 
-
+.hptl {
+  color: red !important;
+}
 .gstl_0.sbib_a,
 #topbar,
 #lst-ib,
@@ -86,7 +126,7 @@ ul[role=listbox] li[role=presentation]:hover {
 .mod input,
 ul[role=listbox]
 {
-	background-color: #fff !important; 
+	background-color: #111111 !important; 
 	color: #fff !important;
 }
 
@@ -107,6 +147,7 @@ ul[role=listbox]
 #hdtb-msb {
 	color: #fff;
 }
+a.fl { color: #bba172 !important;}
 
 .r a,
 .s a,
@@ -117,6 +158,9 @@ g-more-link a span
 {
 	color: #fff !important;
 }
+.TbwUpd {
+  color: green !important;
+}
 
 .r a:visited,
 .s a:visited,
@@ -125,7 +169,7 @@ g-more-link a span
 ul[role=listbox] li[role=presentation] .sbpqs_a,
 g-more-link a span:visited
 {
-	color: #fff !important;    
+	color: #bba172 !important;    
 }
 
 .st em {
