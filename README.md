@@ -1,5 +1,7 @@
 # Safari StyleSheet
 
+<a href="https://www.buymeacoffee.com/v0id" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
+
 Revised and added css selectors/elements from blocklists to remove ads and some other junk.
 
 
