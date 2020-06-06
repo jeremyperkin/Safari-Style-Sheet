@@ -40,6 +40,6 @@ You should now be all set to use Safari and notice that ads are less common.  An
 If you want to collaborate and add anything to this feel free to submit changes or open a ticket and let me know what you would like to see added and I will do my best to get it added as quickly as possible.
 
 
-If you find this helpful please consider donating.
+#### If you found this code helpful, please consider donating.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/yawnzz?locale.x=en_US)
