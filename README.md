@@ -15,5 +15,16 @@ PLEASE NOTE - I HAVE REDDIT PREMIUM - Ads are blocked by default for Prem users.
 
 ![](reddit.png)
 
+[img]https://i.imgur.com/oOxH85R.png[/img]
+
+
+[img](https://i.imgur.com/LkGhkBQ.png)[/img]
+
+[img](https://i.imgur.com/zqr63QL.png)[/img]
+
+[img](https://i.imgur.com/ROyBVkH.png)[/img]
+
+[img](https://i.imgur.com/ROyBVkH.png)[/img]
+
 If you want to collaborate and add anything to this feel free to submit changes.  Together we can make this better.  I will slowly continue updating as I go along and find more annoyances.
 
