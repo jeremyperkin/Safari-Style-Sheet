@@ -6,7 +6,7 @@
 
 **LIST UPDATED** on JUNE 6th 2020
 
-##Instructions
+## Instructions
 
 In order to be able to use this list you will need to walk through the steps below in order to get things working properly.
 
