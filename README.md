@@ -42,4 +42,4 @@ If you want to collaborate and add anything to this feel free to submit changes 
 
 If you find this helpful please consider donating.
 
-![paypal](https://paypal.me/yawnzz?locale.x=en_US)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/yawnzz?locale.x=en_US)
