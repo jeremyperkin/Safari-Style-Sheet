@@ -42,4 +42,4 @@ If you want to collaborate and add anything to this feel free to submit changes 
 
 If you find this helpful please consider donating.
 
-! [paypal (https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=datapimp%40protonmail.com&item_name=building+better+code&currency_code=USD&source=url)
+![paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=datapimp%40protonmail.com&item_name=building+better+code&currency_code=USD&source=url)
