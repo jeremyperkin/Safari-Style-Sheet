@@ -14,15 +14,15 @@ Open Safari, then click on preferences.
 ![click preferences](https://i.imgur.com/oOxH85R.png)
 
 
+
 Now click on the Advanced tab and click on the arrows for stylesheet
 ![click advanced and arrows](https://i.imgur.com/LkGhkBQ.png)
 
 
-Browse to the location where you saved the file **customized.css**
-![find the file](https://i.imgur.com/zqr63QL.png)
 
+Browse to the location where you saved the file **customized.css**
 Click on the file **customized.css** and click on CHOOSE at the bottom.
-![select the file](https://i.imgur.com/ROyBVkH.png)
+![find the file](https://i.imgur.com/zqr63QL.png)
 
 
 You should now see the window for StyleSheet is set to **customized.css**
