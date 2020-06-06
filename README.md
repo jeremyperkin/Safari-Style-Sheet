@@ -18,13 +18,13 @@ PLEASE NOTE - I HAVE REDDIT PREMIUM - Ads are blocked by default for Prem users.
 ![click preferences](https://i.imgur.com/oOxH85R.png)
 
 
-![click advanced and arrows](https://i.imgur.com/LkGhkBQ.png)[/img]
+![click advanced and arrows](https://i.imgur.com/LkGhkBQ.png)
 
-![find the file](https://i.imgur.com/zqr63QL.png)[/img]
+![find the file](https://i.imgur.com/zqr63QL.png)
 
-![select the file](https://i.imgur.com/ROyBVkH.png)[/img]
+![select the file](https://i.imgur.com/ROyBVkH.png)
 
-[img](https://i.imgur.com/ROyBVkH.png)[/img]
+![enjoy](https://i.imgur.com/ROyBVkH.png)
 
 If you want to collaborate and add anything to this feel free to submit changes.  Together we can make this better.  I will slowly continue updating as I go along and find more annoyances.
 
