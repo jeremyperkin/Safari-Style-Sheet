@@ -1,7 +1,9 @@
+/*BLOCKLIST AND YOUTUBE / REDDIT ANNOYANCES REMOVAL */
 
+/*UPDATED June 6th 2020*/
+maintained by github user: jeremyperkin
 
-
-/* YouTube */
+/* YouTube
 
 .html5-endscreen, .ytp-player-content, .ytp.videowall-endscreen, .ytp-show-tiles,
 ytd-comments,
@@ -26,12 +28,16 @@ ytd-guide-section-renderer.style-scope:nth-child(4) > div:nth-child(2) > ytd-gui
 .ytd-mealbar-promo-renderer,
 #content > .ytd-rich-section-renderer.style-scope,
 div[id="sidebar-special-top-home"],
-#clarify-box > ytd-clarification-renderer,
+#clarify-box > ytd-clarification-renderer, */
 ._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV,
 ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt,
 div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV,
 .PSG6gLueWddB1kqvaOxoT,
 a[href*="/rpan/r/"],
+
+/*BLOCKLIST STARTS HERE */
+
+
 #A9AdsMiddleBoxTop,
 #A9AdsOutOfStockWidgetTop,
 #A9AdsServicesWidgetTop,
