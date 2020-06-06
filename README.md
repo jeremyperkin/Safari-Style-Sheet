@@ -1,6 +1,6 @@
 # Safari StyleSheet
 
-<a href="https://www.buymeacoffee.com/v0id" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/yawnzz?locale.x=en_US)
 
 # Blocklist and Reddit / Youtube Annoyances removal.
 
