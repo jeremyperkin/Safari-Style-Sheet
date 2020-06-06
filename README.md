@@ -6,8 +6,9 @@
 
 **LIST UPDATED** on JUNE 6th 2020
 
+##Instructions
 
-In order to be able to use this list you will need to walk through the steps below in get things working.
+In order to be able to use this list you will need to walk through the steps below in order to get things working properly.
 
 Open Safari, then click on preferences.
 
@@ -15,13 +16,16 @@ Open Safari, then click on preferences.
 
 
 
-Now click on the Advanced tab and click on the arrows for stylesheet
+Now click on the Advanced tab and click on the arrows for stylesheet.  
+
 ![click advanced and arrows](https://i.imgur.com/LkGhkBQ.png)
 
 
 
-Browse to the location where you saved the file **customized.css**
-Click on the file **customized.css** and click on CHOOSE at the bottom.
+Browse to the location where you saved the file **customized.css**. 
+
+Click on the file **customized.css** and click on CHOOSE at the bottom.  
+
 ![find the file](https://i.imgur.com/zqr63QL.png)
 
 
