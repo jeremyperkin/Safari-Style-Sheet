@@ -13,16 +13,16 @@ Added Reddit - cosmetic filtering applied.  Made it a little less cluttered.  He
 
 PLEASE NOTE - I HAVE REDDIT PREMIUM - Ads are blocked by default for Prem users.  
 
-![](reddit.png)
-
-[img]https://i.imgur.com/oOxH85R.png[/img]
 
 
-[img](https://i.imgur.com/LkGhkBQ.png)[/img]
+![click preferences](https://i.imgur.com/oOxH85R.png)
 
-[img](https://i.imgur.com/zqr63QL.png)[/img]
 
-[img](https://i.imgur.com/ROyBVkH.png)[/img]
+![click advanced and arrows](https://i.imgur.com/LkGhkBQ.png)[/img]
+
+![find the file](https://i.imgur.com/zqr63QL.png)[/img]
+
+![select the file](https://i.imgur.com/ROyBVkH.png)[/img]
 
 [img](https://i.imgur.com/ROyBVkH.png)[/img]
 
