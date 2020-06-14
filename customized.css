@@ -1,6 +1,6 @@
-/*BLOCKLIST AND YOUTUBE / REDDIT ANNOYANCES REMOVAL */
+/*BLOCKLIST AND ANNOYANCES REMOVAL */
 
-/*UPDATED June 6th 2020*/
+/*UPDATED June 14th 2020*/
 maintained by github user: jeremyperkin
 
 /* YouTube
@@ -21266,7 +21266,7 @@ iframe#google_ads_iframe_,
 .css-1t8nd2d.e12j3pa51, .css-1dc3ky7, .css-1ichrj1.e12j3pa50, .css-a8ml20.e12j3pa51
 {
     visibility: hidden;
-    display: none;
+    display: none !important;
 }
 
 /*Toronto Star*/
@@ -21278,7 +21278,58 @@ iframe#google_ads_iframe_,
 .c-googleadslot,
 .leaderboard-ad-component,
 div-gpt-ad-large-entertainment-hub {
-    display: none;
+    display: none !important;
+}
+/*NY TIMES*/
+#google_center_div, #google_image_div, .i-amphtml-layout-fixed.i-amphtml-layout-size-defined.i-amphtml-element,
+.css-1ichrj1.e12j3pa50, .css-1lzk3av.e12j3pa51, .css-142l3g4,
+.css-6nrzw0, .css-1lzk3av,
+#google_ads_iframe_\/58\/theglobeandmail\.com\/homepage_0__container__,
+#ldbd-gpt-1,
+.u-wrapper.pb-feature.pb-layout-item.pb-f-darwin-test,
+.u-wrapper.pb-feature.pb-layout-item.pb-f-commercial-dfp-ads,
+.c-ad--ldbd-gpt-1,
+.u-wrapper.u-space-mtn.u-space-mbn.pb-feature.pb-layout-item.pb-f-commercial-dfp-ads,
+.l-row.js-stickyad,
+.primary-promo--section.primary-promo--section-3.l-col-1.l-col-sm-8.l-col-md-4.l-col-lg-4.container-with-ad,
+.row.widget,
+.container-fluid.leaderboardWrapper.hidden-xs,
+.GoogleActiveViewInnerContainer,
+#google_ads_iframe_,
+.ad.dfp-ad-mid1-wrapper, 
+#ad.dfp-ad-top-wrapper,
+.place-ad.placed-ad, 
+.css-131kqdc, .GoogleActiveViewElement,
+#dfp-ad-mid3,
+.css-1lzk3av,
+#after-dfp-ad-mid1,
+#google_ads_frame1,
+.ns-doymu-e-1.column-container.banner-large-board.flex-filler, 
+
+/*POSTMEDIA*/
+.ad__section-border--category,
+.ad__section-border,
+#flyertown_module_14942
+{
+display: none !important;
+}
+#google_ads_frame1 {
+    opacity: 0 !important
+}
+.amp-animate.amp-mode-mouse {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+html.i-amphtml-inabox {
+    display: none !important;
+}
+/*BGR DEALS and OTHER ANNOYANCEs*/
+.clearfix.channel-break.channel-deals.featured-channel-deals,
+.admz, 
+.dont-miss,
+.OUTBRAIN,
+.clearfix.channel-break.bgr-recommended {
+	display: none !important
 }
 
 
