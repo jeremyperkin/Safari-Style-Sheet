@@ -2,7 +2,7 @@
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/yawnzz?locale.x=en_US)
 
-# Blocklist and Reddit / Youtube Annoyances removal.
+# Ad Blocker and Annoyance removal.
 
 **LIST UPDATED** on JUNE 6th 2020
 
